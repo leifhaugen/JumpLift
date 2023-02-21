@@ -1,0 +1,5 @@
+liftBlocks:
+   - 'minecraft:emerald_block'
+powerBlocks:
+   - 'minecraft:redstone_block'
+maxSearchRange: 10

@@ -1,0 +1,4 @@
+name: JumpLift
+main: com.mchowto.jumplift.JumpLift
+version: 1.0-SNAPSHOT
+api-version: 1.15
